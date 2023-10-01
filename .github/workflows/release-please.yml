@@ -19,5 +19,5 @@ jobs:
         with:
           release-type: go
           package-name: GLAuth
-          path: ./v2
+          path: v2
           token: ${{ secrets.RELEASE_PLEASE_TOKEN }}
