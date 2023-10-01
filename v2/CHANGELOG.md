@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.3.1](https://github.com/glauth/glauth-playground/compare/v2.3.0...v2.3.1) (2023-10-01)
+
+
+### Features
+
+* adding fosho feature ([#3](https://github.com/glauth/glauth-playground/issues/3)) ([cbc6f0a](https://github.com/glauth/glauth-playground/commit/cbc6f0a5ad707b0ed4b54ce1282989a9071bbaf7))
+
+
+### Miscellaneous Chores
+
+* release 2.3.1 ([25c424c](https://github.com/glauth/glauth-playground/commit/25c424c63b8c48d1acd5afcaa3d826fbf3e0c138))
+
 ## 2.3.0 (2023-10-01)
 
 
