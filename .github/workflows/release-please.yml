@@ -2,7 +2,7 @@ on:
   pull_request:
   push:
     branches:
-      - main
+      - dev
 
 permissions:
   contents: write
@@ -20,4 +20,5 @@ jobs:
           release-type: go
           package-name: GLAuth
           path: v2
+          default-branch: dev
           token: ${{ secrets.RELEASE_PLEASE_TOKEN }}
