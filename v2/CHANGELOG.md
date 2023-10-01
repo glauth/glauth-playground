@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.3.2](https://github.com/glauth/glauth-playground/compare/v2.3.1...v2.3.2) (2023-10-01)
+
+
+### Miscellaneous Chores
+
+* release 2.3.2 ([da5493a](https://github.com/glauth/glauth-playground/commit/da5493a41e9476fb5c45873a35f78fb06e485c38))
+
 ## [2.3.1](https://github.com/glauth/glauth-playground/compare/v2.3.0...v2.3.1) (2023-10-01)
 
 
