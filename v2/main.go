@@ -5,6 +5,6 @@ import (
 )
 
 func main() {
-	// This will print the word "main"
+	// This will print the word "main" v2
 	fmt.Println("main")
 }
