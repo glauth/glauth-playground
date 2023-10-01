@@ -5,6 +5,6 @@ import (
 )
 
 func main() {
-	// This will print the word "main" v2
+	// This will print the word "main" v2-fosho
 	fmt.Println("main")
 }
